@@ -1,7 +1,7 @@
 # Obsidian-Canvas-CSS
-This is a css snippet to modify the looks of my local obsidian canvas to make it more useful for brainstorming. 
+This is a CSS snippet to modify the looks of my local obsidian canvas to make it more useful for brainstorming. 
 
-If you want to use this css snippet, simply download the snippet and folllow the instructions her : https://help.obsidian.md/Extending+Obsidian/CSS+snippets
+If you want to use this CSS snippet, simply download the snippet and follow the instructions here : https://help.obsidian.md/Extending+Obsidian/CSS+snippets
 
 Fair warning, this snippet in no way is perfect and is made just for personal use to solve issues that I had. You are completely free to copy the code and modify it as per your requirements. 
 
