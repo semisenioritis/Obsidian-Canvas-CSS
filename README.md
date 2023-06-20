@@ -7,4 +7,4 @@ Fair warning, this snippet in no way is perfect and is made just for personal us
 
 Sample:
 
-![Screenshot (210)](https://github.com/semisenioritis/Obsidian-Canvas-CSS-/assets/89476245/e18b43e1-75ee-4313-8885-c961fc641811)
+![Screenshot (212)](https://github.com/semisenioritis/Obsidian-Canvas-CSS/assets/89476245/825f2a66-113a-4bcc-a19b-6b22af66d563)
