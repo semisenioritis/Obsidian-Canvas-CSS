@@ -69,9 +69,15 @@
 }
 
 /* ===================================================================================================================== */
-.canvas-node-content .canvas-embed .is-loaded{
+
+.canvas-node-content.canvas-embed.is-loaded{
     background: #151515;
 }
-.canvas-node-content .markdown-embed .is-loaded{
+.canvas-node-content.markdown-embed.is-loaded{
     background: #404040;
+
+}
+
+.canvas-node-content.markdown-embed.is-loaded > .markdown-embed-content.node-insert-event > .markdown-preview-view.markdown-rendered.node-insert-event.show-indentation-guide.allow-fold-headings.allow-fold-lists {
+    text-align: left;
 }
